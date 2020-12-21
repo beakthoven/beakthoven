@@ -4,7 +4,7 @@ Hello!
 Hello! I'm Dakkshesh, 13 y.o rookie developer. I'm a student and a developer.
 
 Little info about me
-I live in India. I interested in Android Development since my age was 11. In that ages, I interested in ROM porting and Linux basic command. Three years later, or now, I interested in kernel development, and other too.
+I live in India. I interested in coding since my age was 11, at that age i did mostly python based projects, now after 3 years i mostly make custom kernels for android and some shell scripts.
 
 What? 13 y.o? Are you kidding me?
 Seems like unbelivable, but that's the fact! I'm 13.
