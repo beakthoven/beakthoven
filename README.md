@@ -12,7 +12,7 @@ I live in India. I interested in coding since my age was 10, at that age i did m
 Sure! Contact me on telegram : https://t.me/Dakkshesh . Please note that I may slow to respond sometimes.
 
 ## What's your project now?
-- Parallax Kernel Project
+- CitricOS rom project
 
 
 ![](https://komarev.com/ghpvc/?username=dakkshesh07)
