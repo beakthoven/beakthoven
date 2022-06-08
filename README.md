@@ -6,7 +6,7 @@
 Hello! I'm Dakkshesh, 15 y.o rookie developer.
 
 ## Little Info About Me
-I live in India. I interested in coding since my age was 10, at that age i did mostly python based projects. Now, i mostly make custom Linux kernels for Android phones and other things related to Android.
+I am from India. I've been interested in coding since I was ten years old, and I've mostly worked on Python-based projects since then. Now, I mostly create custom Linux kernels for Android phones and work on other Android and Linux related projects.
 
 ## Can I contact you?
 Sure! Contact me on telegram : https://t.me/Dakkshesh07 . Please note that I may slow to respond sometimes.
