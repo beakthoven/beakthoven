@@ -17,6 +17,6 @@
 ### GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakkshesh07&show_icons=true&theme=radical&locale=en" alt="dakkshesh07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakkshesh07&theme=dark" alt="dakkshesh07" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dakkshesh07&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=dakkshesh07&label=Profile%20views&color=d93a7c&style=flat)
