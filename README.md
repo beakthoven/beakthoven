@@ -14,4 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dakkshesh07&theme=radical)](https://git.io/streak-stats)
 
+### Holopin badges
+[![Holopin](https://holopin.me/dakkshesh07)](https://holopin.io/@dakkshesh07)
+
 ![](https://komarev.com/ghpvc/?username=dakkshesh07&label=Profile%20views&color=d93a7c&style=flat)
