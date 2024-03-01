@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Dakkshesh</h1>
-<h3 align="center">I am an amateur software developer with over 5 years of experience. I've worked on a variety of projects and have experience with numerous programming languages, embedded programming and Linux kernel.</h3>
+<h3 align="center">I am an amateur software developer with over 6 years of experience. I've worked on a variety of projects and have experience with numerous programming languages, embedded programming and Linux kernel.</h3>
 
 ### 🔭 Some of my projects
 - [Neutron Clang](https://github.com/Neutron-Toolchains/clang-build)
