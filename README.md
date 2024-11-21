@@ -1,20 +1,50 @@
-<h1 align="center">Hey! 👋, I'm Dakkshesh</h1>
-<h3 align="center">I am an amateur software developer with over 6 years of experience. I've worked on a variety of projects and have experience with numerous programming languages, embedded programming and Linux kernel.</h3>
+## Hi there 👋 I'm Dakkshesh
 
-### 🔭 Some of my projects
-- [Neutron Clang](https://github.com/Neutron-Toolchains/clang-build)
-- [Kprofiles](https://github.com/dakkshesh07/Kprofiles)
-- [Neutron Toolchain projects](https://github.com/Neutron-Toolchains)
+An enthusiastic amateur Systems Programmer and Software Developer based in India.
+I specialize in Linux Kernel Development, Toolchain Optimization, Scripting/Automation and Embedded Systems, with a particular focus on creating efficient, high-performance solutions.
 
-### 🔧 Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![](https://img.shields.io/github/followers/dakkshesh07?label=Follow&style=social)](https://github.com/dakkshesh07)
+[![](https://img.shields.io/github/stars/dakkshesh07?style=social)](https://github.com/dakkshesh07?tab=stars)
+![](https://komarev.com/ghpvc/?username=dakkshesh07)
 
-### GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakkshesh07&show_icons=true&theme=radical&locale=en" alt="dakkshesh07" /></p>
+### What I Do
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dakkshesh07&theme=radical)](https://git.io/streak-stats)
+- Linux Kernel Development: Customizing kernels for phones and other embedded devices, especially Android-based systems.
+- Android Development: Working on various AOSP related projects.
+- Embedded Programming: Writing low-level code for microcontrollers (e.g., Arduino, AVR) and integrating hardware with software.
+- Toolchain Optimization: Building and fine-tuning LLVM/Clang and other toolchains to improve performance and cross-compilation for various platforms.
+- Automation and Build Systems: Writing build scripts and designing automation workflows using Bash and Docker to streamline development pipelines.
 
-### Holopin badges
+### Notable Projects
+
+Here are a few of my most noteworthy projects. Explore and star them if you find them interesting:
+
+[![Kprofiles](https://github-readme-stats.vercel.app/api/pin/?username=dakkshesh07&repo=Kprofiles&show_owner=true&theme=nord)](https://github.com/dakkshesh07/Kprofiles)
+
+[![neutron-clang](https://github-readme-stats.vercel.app/api/pin/?username=Neutron-Toolchains&repo=clang-build&show_owner=true&theme=nord)](https://github.com/Neutron-Toolchains/clang-build)
+
+[![mlgo-linux-kernel](https://github-readme-stats.vercel.app/api/pin/?username=dakkshesh07&repo=mlgo-linux-kernel&show_owner=true&theme=nord)](https://github.com/dakkshesh07/mlgo-linux-kernel)
+
+[![neutron-clang](https://github-readme-stats.vercel.app/api/pin/?username=Neutron-Toolchains&repo=antman&show_owner=true&theme=nord)](https://github.com/Neutron-Toolchains/antman)
+
+### Tech Stack
+
+- Languages:
+  - C, C++, Python, Shell Scripting
+- Platforms and Tools:
+  - Linux Kernel Development: Modules, debugging, and performance tuning.
+  - Toolchains: LLVM/Clang, GNU Binutils, and custom cross-compilation setups.
+  - Embedded Systems: Arduino, AVR, and low-level firmware.
+  - Docker: Containerizing development and build environments for reproducibility and scalability.
+
+### Reach Out to Me
+Feel free to connect with me via email. I'm always open to collaborating on exciting projects, discussing technical topics, or simply grabbing a cup of coffee!
+
+### My GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dakkshesh07&count_private=true&show_icons=true&theme=nord)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dakkshesh07&theme=nord)](https://git.io/streak-stats)
+
+### My Holopin badges
+
 [![Holopin](https://holopin.me/dakkshesh07)](https://holopin.io/@dakkshesh07)
-
-![](https://komarev.com/ghpvc/?username=dakkshesh07&label=Profile%20views&color=d93a7c&style=flat)
