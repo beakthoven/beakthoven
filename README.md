@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Dakkshesh
 
-An enthusiastic amateur Systems Programmer and Software Developer based in India.
 I specialize in Linux Kernel Development, Toolchain Optimization, Scripting/Automation and Embedded Systems, with a particular focus on creating efficient, high-performance solutions.
 
 [![](https://img.shields.io/github/followers/dakkshesh07?label=Follow&style=social)](https://github.com/dakkshesh07)
@@ -30,7 +29,7 @@ Here are a few of my most noteworthy projects. Explore and star them if you find
 ### Tech Stack
 
 - Languages:
-  - C, C++, Python, Shell Scripting
+  - C, C++, Python, Go, Shell Scripting
 - Platforms and Tools:
   - Linux Kernel Development: Modules, debugging, and performance tuning.
   - Toolchains: LLVM/Clang, GNU Binutils, and custom cross-compilation setups.
