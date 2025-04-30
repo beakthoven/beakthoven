@@ -46,4 +46,4 @@ Feel free to connect with me! I'm always open to collaborating on exciting proje
 
 ### My Holopin badges
 
-[![Holopin](https://holopin.me/dakkshesh07)](https://holopin.io/@dakkshesh07)
+[![Holopin](https://holopin.me/beakthoven)](https://holopin.io/@beakthoven)
